@@ -1,0 +1,157 @@
+.top{
+    width: 800px;
+    height: 50px;
+    background-color: black;
+    color: white;
+    margin-left: 250px;
+}
+
+h2{
+    text-align: center;
+}
+
+.content{
+    height: 500px;
+    width: auto;
+    padding: 0px;
+    margin: 0px;
+}
+
+.contleft{
+    border: 2px solid black;
+    height: 225px;
+    width: 150px;
+    margin-left: 250px;
+}
+
+.contleft img{
+    height: 60px;
+    width: 60px;
+    margin-left: 40px;
+    margin-top: 15px;
+}
+
+.contleft p {
+    text-align: center;
+    margin-top: 30px;
+    color: blue;
+    text-decoration: underline;
+}
+
+.contleft h2 {
+    text-align: center;
+}
+
+.contright{
+    display: inline-block;
+    margin-left: 600px;
+    position: absolute;
+    margin-top: -200px;
+}
+
+.row{
+    height: 100px;
+    width: 450px;
+    border: 2px solid black;
+    /* display: flex;
+    /* align-items: top; */
+    display: flex;
+    align-items: top;
+}
+.row button{
+    /* background-color: rgb(236, 236, 160);
+    height: 25px;
+    width: 40px;
+    margin: 10px;
+    align-items: flex-end; */
+    height: 35px;
+    width: 60px;
+    margin-left: 35px;
+    margin-top: 10px;
+    background-color: rgb(228, 195, 13);
+    box-shadow: 4px 4px black;
+}
+
+.row h3{
+    margin: 20px 30px;
+}
+
+.row h4{
+    margin-left: 160px;
+    margin-top: 15px;
+}
+
+.row2{
+    height: 100px;
+    width: 450px;
+    border: 2px solid black;
+    margin-top: 10px;
+    display: flex;
+    align-items: top;
+}
+
+.row3{
+    height: 100px;
+    width: 450px;
+    border: 2px solid black;
+    margin-top: 10px;
+    display: flex;
+    align-items: top;
+}
+.row4 p {
+    position: absolute;
+    margin-top: -40px;
+    margin-left: 30px;
+}
+span{
+    color: blue;
+    text-decoration: underline;
+}
+
+.row2 button{ 
+    height: 35px;
+    width: 60px;
+    margin-left: 35px;
+    margin-top: 10px;
+    background-color: rgb(228, 195, 13);
+    box-shadow: 4px 4px black;
+}
+
+.row3 button{
+    height: 35px;
+    width: 60px;
+    margin-left: 35px;
+    margin-top: 10px;
+    background-color: rgb(228, 195, 13);
+    box-shadow: 4px 4px black;
+}
+
+.row2 h3{
+    margin: 20px 30px;
+}
+
+.row2 h4{
+    margin-left: 130px;
+    margin-top: 15px;
+}
+
+.row3 h3{
+    margin: 20px 30px;
+}
+
+.row3 h4{
+    margin-left: 170px;
+    margin-top: 15px;
+}
+
+.row5{
+    position: absolute;
+    margin-top: -35px;
+    margin-left: 20px;
+}
+
+.row6{
+    position: absolute;
+    margin-top: -35px;
+    margin-left: 20px;
+}
